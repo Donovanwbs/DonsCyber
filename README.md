@@ -1,7 +1,7 @@
 # DonsCyber
 <h1>Hi, I'm Donovan! </h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 
 <h2> Certification :</h2>
