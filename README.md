@@ -7,8 +7,7 @@
 <h2> Certification :</h2>
 
 - **[CompTIA Security+](https://www.credly.com/badges/41728625-048e-43f7-99c0-934dce63b3dc/linked_in?t=rz3ho6)**
-
-
+- **[CompTIA Network+](https://www.credly.com/badges/e86d379b-7448-470d-b688-6835581f4f54)**
 - **[CompTIA A+](http://www.credly.com/badges/f717c809-0ab9-4f5b-91b7-c2af0c1bacf1/linked_in?t+sefhdr)**
 
 
