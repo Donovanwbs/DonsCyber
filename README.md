@@ -24,6 +24,13 @@
 
 [linkedin]: https://www.linkedin.com/in/donovan-davis407/
 
+
+[<img align="left" alt="DonovanDavis | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+
+[medium]: https://medium.com/@donovancbw01
+
+
+
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
