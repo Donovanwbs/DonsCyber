@@ -5,7 +5,7 @@
 
 [Azure-Soc](https://github.com/Donovanwbs/Azure-SOC)
 
-- Created a live SOC/Honey pot within Azure
+- Created a live SOC/Honeynet within Azure
 
 [Network-Scanning-Attack](https://github.com/Donovanwbs/Network-Scanning-Attack)
 
