@@ -3,11 +3,13 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-[SIEM-Honeynet](https://github.com/Don1914/SIEM-Honeynet/tree/patch-1)
+[Azure-Soc](https://github.com/Donovanwbs/Azure-SOC)
 
+- Created a live SOC/Honey pot within Azure
 
 [Network-Scanning-Attack](https://github.com/Donovanwbs/Network-Scanning-Attack)
 
+- Conducted network forensics using different tools 
 
 <h2> Certification :</h2>
 
