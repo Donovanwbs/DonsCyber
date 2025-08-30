@@ -3,6 +3,10 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+[Splunk Analysis](https://github.com/Donovanwbs/Splunk)
+
+- This project showcases my hands-on experience using Splunk Enterprise to simulate SOC analyst workflows across diverse datasets.
+
 [Azure-Soc](https://github.com/Donovanwbs/Azure-SOC)
 
 - Created a live SOC/Honeynet within Azure
