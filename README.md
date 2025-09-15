@@ -20,7 +20,7 @@
 - **[CompTIA Security+](https://www.credly.com/badges/41728625-048e-43f7-99c0-934dce63b3dc/linked_in?t=rz3ho6)**
 - **[CompTIA Network+](https://www.credly.com/badges/e86d379b-7448-470d-b688-6835581f4f54)**
 - **[CompTIA A+](http://www.credly.com/badges/f717c809-0ab9-4f5b-91b7-c2af0c1bacf1/linked_in?t+sefhdr)**
-
+- **[CompTIA CYSA+](https://www.credly.com/badges/baef13e0-4924-4a8c-91ca-0d4e01371c43/public_url)**
 
 <h2> 🤳 Connect with me:</h2>
 
